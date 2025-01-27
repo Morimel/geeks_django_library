@@ -29,6 +29,7 @@ INSTALLED_APPS = [
     'library',
     'hashtags',
     'todo',
+    'parser_mybook',
 ]
 
 MIDDLEWARE = [
