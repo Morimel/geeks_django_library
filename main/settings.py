@@ -30,6 +30,8 @@ INSTALLED_APPS = [
     'hashtags',
     'todo',
     'parser_mybook',
+    'recipe',
+    'ingridient',
 ]
 
 MIDDLEWARE = [
